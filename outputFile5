@@ -1,0 +1,48 @@
+# OUTPUT FILE FOR NODE with ID5
+This hostname is Harshithas-MacBook-Pro.local
+Now starting this server
+java.net.BindException: Address already in use
+Loading my message queue if i am the sender
+THIS IS A TEST OUTPUT
+Sender Thread started successfully
+Going to sleep so the other nodes come up
+CREATING CONNECTIONS TOHarshithas-MacBook-Pro.local
+Ready to take messages from the queue
+This hostname is Harshithas-MacBook-Pro.local
+Now starting this server
+java.net.BindException: Address already in use
+Loading my message queue if i am the sender
+THIS IS A TEST OUTPUT
+Sender Thread started successfully
+Going to sleep so the other nodes come up
+CREATING CONNECTIONS TOHarshithas-MacBook-Pro.local
+Ready to take messages from the queue
+This hostname is Harshithas-MacBook-Pro.local
+Now starting this server
+This hostname is Harshithas-MacBook-Pro.local
+Now starting this server
+java.net.BindException: Address already in use
+Loading my message queue if i am the sender
+THIS IS A TEST OUTPUT
+Sender Thread started successfully
+Going to sleep so the other nodes come up
+This hostname is Harshithas-MacBook-Pro.local
+Now starting this server
+java.net.BindException: Address already in use
+Loading my message queue if i am the sender
+THIS IS A TEST OUTPUT
+Sender Thread started successfully
+Going to sleep so the other nodes come up
+CREATING CONNECTIONS TOHarshithas-MacBook-Pro.local
+Ready to take messages from the queue
+This hostname is Harshithas-MacBook-Pro.local
+Now starting this server
+java.net.BindException: Address already in use
+Loading my message queue if i am the sender
+THIS IS A TEST OUTPUT
+Sender Thread started successfully
+Going to sleep so the other nodes come up
+This hostname is Harshithas-MacBook-Pro.local
+Now starting this server
+java.net.BindException: Address already in use
+Loading my message queue if i am the sender
